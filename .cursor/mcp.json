@@ -1,0 +1,16 @@
+{
+    "mcpServers": { 
+      "mcp-demo": {
+          "url": "http://18.141.190.70:9009/sse/",
+          "type": "sse"
+        
+      },
+      "list-files": {
+        "url": "http://127.0.0.1:8008/sse/",
+        "type": "sse"
+      
+    }
+      
+    }
+  }
+  
