@@ -4,7 +4,7 @@ import subprocess
 import os 
 import requests
 
-mcp = FastMCP("generate_test_case")  # Initialize an MCP server instance with a descriptive name
+mcp = FastMCP("project-config-server")  # Initialize an MCP server instance with a descriptive name
 
 
 
